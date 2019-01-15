@@ -32,7 +32,7 @@ public class PBO6K10116228Latihan52SiapaKamu {
         Mahasiswa mhs = new Mahasiswa();
         mhs.setNIM("10116228");
         mhs.setNama("Gandy Christian Situmorang");
-        mhs.setUmur();
+        mhs.setUmur(23);
         mhs.setKelas("PBO6K");
         System.out.println("NIM MAHASISWA = " + dosen.getNIP());
         mhs.siapaKamu();
