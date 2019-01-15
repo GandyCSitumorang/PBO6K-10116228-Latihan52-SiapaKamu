@@ -30,10 +30,10 @@ public class PBO6K10116228Latihan52SiapaKamu {
         System.out.println("");
         
         Mahasiswa mhs = new Mahasiswa();
-        mhs.setNIM("10117074");
-        mhs.setNama("Brigita Julia Puspita Nai Goncalves");
-        mhs.setUmur(20);
-        mhs.setKelas("PBO2");
+        mhs.setNIM("10116228");
+        mhs.setNama("Gandy Christian Situmorang");
+        mhs.setUmur();
+        mhs.setKelas("PBO6K");
         System.out.println("NIM MAHASISWA = " + dosen.getNIP());
         mhs.siapaKamu();
         mhs.kelasApa();
